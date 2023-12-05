@@ -3,7 +3,6 @@ import React from "react";
 interface CardPros {
     quiztitle: string,
     quizsentence: String
-
 }
 
 
